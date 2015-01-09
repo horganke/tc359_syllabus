@@ -8,7 +8,7 @@ TC359 is designed to introduce you to developing simple webapps in Ruby, with th
 
 Email: fritzchr@msu.edu
 
-Hours: by appointment (email me if you have questions)
+Hours: by appointment (email me to set one up)
 
 - - -
 
@@ -16,37 +16,37 @@ Hours: by appointment (email me if you have questions)
 
 ### Week 1 (1/12)
 
-- Get to know each other
-- Get to know the course
-- Set up your computer for the course
+- [Get to know each other](http://codekwondo.herokuapp.com/skills/9)
+- [Get to know the course](http://codekwondo.herokuapp.com/skills/10)
+- [Set up your computer for the course](http://codekwondo.herokuapp.com/skills/15)
 
 ### Week 2 (1/19): NO CLASS (Martin Luther King Day)
 
 ### Week 3 (1/26)
 
-- Build a simple webapp with Sinatra
+- [Build a simple webapp with Sinatra](http://codekwondo.herokuapp.com/skills/19)
 
 ### Week 4 (2/02)
 
-- Serve HTML files with Sinatra
-- Organize static assets in Sinatra
-- Use Twitter Bootstrap to make websites not look terrible, even if you're not a designer
+- [Serve HTML files with Sinatra](http://codekwondo.herokuapp.com/skills/32)
+- [Organize static assets in Sinatra](http://codekwondo.herokuapp.com/skills/26)
+- [Use Twitter Bootstrap to make websites not look terrible, even if you're not a designer](http://codekwondo.herokuapp.com/skills/27)
 
 ### Week 5 (2/09):
 
-- Dry up Sinatra views with a layout file
-- Embed Ruby in Sinatra
-- Use forms for more dynamic Sinatra views
+- [Dry up Sinatra views with a layout file](http://codekwondo.herokuapp.com/skills/29)
+- [Embed Ruby in Sinatra](http://codekwondo.herokuapp.com/skills/20)
+- [Use forms for more dynamic Sinatra views](http://codekwondo.herokuapp.com/skills/33)
 
-Week 6  (2/16): TBD
+Week 6 (2/16): TBD
 
-Week 7  (2/23): TBD
+Week 7 (2/23): TBD
 
-Week 8  (3/02): TBD
+Week 8 (3/02): TBD
 
-Week 9  (3/09): NO CLASS (Spring Break)
+Week 9 (3/09): NO CLASS (Spring Break)
 
-Week 9  (3/16): TBD
+Week 9 (3/16): TBD
 
 Week 10 (3/23): TBD
 
