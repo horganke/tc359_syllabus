@@ -76,7 +76,7 @@ If you don't actually want to learn web development, that's OK. I think you're m
 
 This is a class that values proactivity by design. If you're hoping to cruise by unnoticed, just barely giving the instructor what they want, then this isn't the class for you.
 
-To enforce this, **I have a 3 strikes rule.** There are the activities that could earn you a strike:
+To enforce this, **I have a 3 strikes rule.** These are the activities that could earn you a strike:
 
 #### Missed deadlines
 
