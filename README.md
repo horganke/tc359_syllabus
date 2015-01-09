@@ -5,7 +5,9 @@ TC359 is designed to introduce you to developing simple webapps in Ruby, with th
 ## Instructor
 
 **Chris Fritz**
+
 Email: fritzchr@msu.edu
+
 Hours: by appointment (email me if you have questions)
 
 - - -
@@ -36,18 +38,25 @@ Hours: by appointment (email me if you have questions)
 - Embed Ruby in Sinatra
 - Use forms for more dynamic Sinatra views
 
-**
 Week 6  (2/16): TBD
+
 Week 7  (2/23): TBD
+
 Week 8  (3/02): TBD
+
 Week 9  (3/09): NO CLASS (Spring Break)
+
 Week 9  (3/16): TBD
+
 Week 10 (3/23): TBD
+
 Week 11 (4/06): TBD
+
 Week 12 (4/13): TBD
+
 Week 13 (4/20): TBD
+
 Week 15 (4/27): TBD
-**
 
 - - -
 
