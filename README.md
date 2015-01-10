@@ -58,6 +58,10 @@ Week 13 (4/20): TBD
 
 Week 15 (4/27): TBD
 
+## Projects
+
+Skills to be mastered each week are listed directly below that week in the above schedule. For each skill that has a project, that project is due before the next time we meet.
+
 - - -
 
 ## Grading
@@ -66,28 +70,30 @@ All grading in this course will be through self-assessment on the Codekwondo lea
 
 ### Cheating
 
-Cheating in the class results in immediate failure of the course. What constitutes cheating? One example would be trying to deliver a duplicate of someone else's assignment, when it's not a group project. As a general rule though, if it feels dishonest, it's cheating.
+Cheating in the class results in immediate failure of the course. What constitutes cheating? One example would be trying to deliver a duplicate of someone else's assignment, when it's not a group project. As a general rule though, if it feels dishonest, it's cheating. If there's something you're sure about, ask me first to make sure.
 
 ### Not Trying
 
-I really, *really* want each and every one of you to succeed. In fact, I'm more than happy to put in a lot of time outside of class giving you feedback and answering questions. In order to make this time though, I make less time for people that don't try.
+I really, *really* want each and every one of you to succeed. In fact, I'm more than happy to put in a lot of time outside of class giving you feedback and answering questions. And there are *never* too many questions. In order to make this time though, I make less time for people that don't try.
 
-If you don't actually want to learn web development, that's OK. I think you're making a mistake not learning one of the most valuable and high-paying skills in existence, but you can quit now. And you should quit.
+Here's what trying looks like:
 
-This is a class that values proactivity by design. If you're hoping to cruise by unnoticed, just barely giving the instructor what they want, then this isn't the class for you.
+- Show up
+- Ask for help when you need it
+- Don't lie to me
 
-To enforce this, **I have a 3 strikes rule.** These are the activities that could earn you a strike:
+If you do those things, I will bend over backwards to help you. And to ensure that I can *make that time* to help you, **I have a 3 strikes rule.** When you earn 3 strikes, you fail the course (unless there are very special circumstances). These are the activities that could earn you a strike:
 
 #### Missed deadlines
 
-In a real job, your boss probably isn't going to dock your pay for not meeting a deadline. If you're going to miss a deadline though, I'd like to hear from you explaining why *beforehand*. Otherwise I'll worry and check in on you to make sure you're OK. I really want you to succeed. And I also want you to have a plan for how you'll prevent it in the future.
+In a real job, your boss probably isn't going to dock your pay for not meeting a deadline. So I'm not detracting any points. If you're going to miss a deadline though, I'd like to hear from you explaining why *beforehand*, with a plan for how you'll avoid missing deadlines in the future.
 
-However, if you let deadlines pass without contacting me and without good reason, that's a strike. In a real job, you would get fired for this lack of professionalism. It's unacceptable to just not do work, hoping your boss doesn't notice.
+If I *don't* hear from you, I'll worry and check in to make sure you're OK. I really want you to succeed. I also have to give you a strike though. Just like in a real job, it's unacceptable to simply not do work, hoping your boss doesn't notice.
 
 #### Submitting incomplete work
 
-Similarly, if you submit a project that *clearly* doesn't meet the criteria, that's a strike. I want to give you really great feedback, but if I keep having to hand out really obvious feedback, I won't have time for it.
+Similarly, if you submit a project that *clearly* doesn't meet the criteria, that's a strike. I want to give you really great feedback, but if I keep having to hand out really obvious feedback, like "Umm... it's not done," then that's less time I have for people who really want to grow.
 
-#### Absences
+### Absences
 
-We'll be doing a lot of our work online, but we'll also be doing a lot of work in class. Absences are a strike, explained or not. We only have 14 classes. If you miss 3 of them that's over 20%. What job are you allowed to not show up for 20% of the time?
+Absences have a separate 3-strike policty. We'll be doing a lot of our work online, but we'll also be doing a lot of work in class. The rule is 3 absences, explained or not, and you fail the course (again, unless there are very special circumstances). We only have 14 classes. If you miss 3 of them, that's over 20%. What job are you allowed to not show up for 20% of the time?
