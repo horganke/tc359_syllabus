@@ -96,4 +96,4 @@ Similarly, if you submit a project that *clearly* doesn't meet the criteria, tha
 
 ### Absences
 
-Absences have a separate 3-strike policty. We'll be doing a lot of our work online, but we'll also be doing a lot of work in class. The rule is 3 absences, explained or not, and you fail the course (again, unless there are very special circumstances). We only have 14 classes. If you miss 3 of them, that's over 20%. What job are you allowed to not show up for 20% of the time?
+Absences have a separate 3-strike policy. We'll be doing a lot of our work online, but we'll also be doing a lot of work in class. The rule is 3 absences, explained or not, and you fail the course (again, unless there are very special circumstances). We only have 14 classes. If you miss 3 of them, that's over 20%. What job are you allowed to not show up for 20% of the time?
