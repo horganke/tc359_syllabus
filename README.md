@@ -70,11 +70,11 @@ All grading in this course will be through self-assessment on the Codekwondo lea
 
 ### Cheating
 
-Cheating in the class results in immediate failure of the course. What constitutes cheating? One example would be trying to deliver a duplicate of someone else's assignment, when it's not a group project. As a general rule though, if it feels dishonest, it's cheating. If there's something you're sure about, ask me first to make sure.
+Cheating in the class results in immediate failure of the course. What constitutes cheating? One example would be trying to deliver a duplicate of someone else's assignment, when it's not a group project. As a general rule though, if it feels dishonest, it's cheating. If there's something you're not sure about, ask me first to make sure.
 
 ### Not Trying
 
-I really, *really* want each and every one of you to succeed. In fact, I'm more than happy to put in a lot of time outside of class giving you feedback and answering questions. And there are *never* too many questions. In order to make this time though, I make less time for people that don't try.
+I really, *really* want each and every one of you to succeed. In fact, I'm more than happy to put in a lot of time outside of class giving you feedback and answering questions. And there are *never* too many questions. In order to make this time though, I make less time for people who don't try.
 
 Here's what trying looks like:
 
