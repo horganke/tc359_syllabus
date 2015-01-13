@@ -25,18 +25,17 @@ Hours: by appointment (email me to set one up)
 ### Week 3 (1/26)
 
 - [Build a simple webapp with Sinatra](http://codekwondo.herokuapp.com/skills/19)
-
-### Week 4 (2/02)
-
 - [Serve HTML files with Sinatra](http://codekwondo.herokuapp.com/skills/32)
 - [Organize static assets in Sinatra](http://codekwondo.herokuapp.com/skills/26)
 - [Use Twitter Bootstrap to make websites not look terrible, even if you're not a designer](http://codekwondo.herokuapp.com/skills/27)
 
-### Week 5 (2/09):
+### Week 4 (2/02)
 
 - [Dry up Sinatra views with a layout file](http://codekwondo.herokuapp.com/skills/29)
 - [Embed Ruby in Sinatra](http://codekwondo.herokuapp.com/skills/20)
 - [Use forms for more dynamic Sinatra views](http://codekwondo.herokuapp.com/skills/33)
+
+Week 5 (2/09): TBD
 
 Week 6 (2/16): TBD
 
